@@ -1,0 +1,12 @@
+interface:
+  display_name: Morning News Brief
+  short_description: 高信噪比中文 AI、科技、财经与国际新闻早报
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
