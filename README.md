@@ -110,7 +110,3 @@ git clone https://github.com/Driannauer/morning-edition-skill.git <workspace>/sk
     ├── source-pool.md             # 来源质量参考
     └── ...
 ```
-
-## 许可证
-
-本仓库当前未附带许可证。若计划再分发或用于商业用途，请先补充适合的许可证条款。
